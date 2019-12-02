@@ -1,0 +1,92 @@
+-----------------------------------
+Pre-test Windows - Ainditya Anggari Nuryono - Praxis Academy - Python Developer -
+-----------------------------------
+C:\Praxis-academy\kemampuan-dasar-1\latihan>date /t
+Sat 11/30/2019
+-----------------------------------
+C:\Praxis-academy\kemampuan-dasar-1\latihan>dir /s/w/o/p
+ Volume in drive C has no label.
+ Volume Serial Number is 4292-32F8
+-----------------------------------
+Directory of C:\Praxis-academy\kemampuan-dasar-1\latihan
+
+[.]           [..]          cmdline.txt   laihan.JPG
+               2 File(s)         79,543 bytes
+
+     Total Files Listed:
+               2 File(s)         79,543 bytes
+               2 Dir(s)  60,420,177,920 bytes free
+
+C:\Praxis-academy\kemampuan-dasar-1\latihan>echo
+ECHO is on.
+-----------------------------------
+C:\Praxis-academy\kemampuan-dasar-1\latihan>cd\
+
+C:\>
+-----------------------------------
+C:\Praxis-academy\kemampuan-dasar-1\latihan>color b
+-----------------------------------
+C:\Praxis-academy\kemampuan-dasar-1\latihan>if not exist product.dat echo tidak bisa menemukan data
+tidak bisa menemukan data
+-----------------------------------
+C:\Praxis-academy\kemampuan-dasar-1\latihan>ver
+
+Microsoft Windows [Version 10.0.18363.476]
+-----------------------------------
+C:\Praxis-academy\kemampuan-dasar-1\latihan>Verify
+VERIFY is on.
+-----------------------------------
+C:\Praxis-academy\kemampuan-dasar-1\latihan>timeout /t 10
+
+Waiting for  10 seconds, press a key to continue ...
+-----------------------------------
+C:\Praxis-academy\kemampuan-dasar-1\latihan>timeout /t 100 /nobreak
+
+Waiting for  98 seconds, press CTRL+C to quit ...
+-----------------------------------
+C:\Praxis-academy\kemampuan-dasar-1\latihan>start /max start /?
+-----------------------------------
+C:\Praxis-academy\kemampuan-dasar-1\latihan>PowerShell.exe -ExecutionPolicy Restricted
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Praxis-academy\kemampuan-dasar-1\latihan>
+-----------------------------------
+C:\Users\Aninditya>PowerShell_Ise
+-----------------------------------
+C:\Users\Aninditya>prompt $d$s$s$t$_$g
+
+Sat 11/30/2019  11:58:25.77
+-----------------------------------
+C:\Users\Aninditya>prompt --$g
+
+-->
+-----------------------------------
+C:\Users\Aninditya>chcp
+Active code page: 437
+-----------------------------------
+C:\Users\Aninditya>cls
+-----------------------------------
+C:\Users\Aninditya>cmdkey /list
+
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Generic
+    User: 02nvtkhuavqmmehx
+    Saved for this logon only
+
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic
+    User: 02nvtkhuavqmmehx
+    Local machine persistence
+-----------------------------------
+C:\WINDOWS\system32>recover d:\fiction\story.txt
+The type of the file system is NTFS.
+
+Press ENTER to begin recovery of the file on drive D:
+-----------------------------------
+C:\Users\Aninditya>cd ..
+
+C:\Users>
+-----------------------------------

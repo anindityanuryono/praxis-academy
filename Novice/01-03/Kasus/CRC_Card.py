@@ -15,10 +15,9 @@ Membayar total tagihan - Penjual, minuman , makanan
 '''
 
 class Penjual:
-    def __init__(self, Makan, Minum, total_harga):
+    def __init__(self, Makan, Minum):
         self.makanan = Makan
         self.minuman = Minum
-        self.harga = total_harga
 
     def fungsi_Makan(mk):
         print("Saya Pesan " + mk.makanan)
@@ -26,7 +25,7 @@ class Penjual:
     def fungsi_Minum(mn):
         print("Saya Pesan " + mn.minuman)
 
-    def tagihan_harga(hg):
+    def tagihan_harga(self):
 
         bakso = 8000
         mie_ayam = 6000
@@ -39,19 +38,20 @@ class Penjual:
         harga4 = mie_ayam + es_teh
 
         if tanya_mk == "bakso" and tanya_mn == "es jeruk":
-            print("total tagihan: ", hg.harga, harga1)
+            print("total tagihan: ", harga1)
         elif tanya_mk == "bakso" and tanya_mn == "es teh":
-            print("total tagihan: ", hg.harga, harga2)
+            print("total tagihan: ",  harga2)
         elif tanya_mk == "mie ayam" and tanya_mn == "es jeruk":
-            print("total tagihan: ", hg.harga, harga3)
+            print("total tagihan: ", harga3)
         elif tanya_mk == "mie ayam" and tanya_mn == "es teh":
-            print("total tagihan: " , hg.harga, harga4 )
+            print("total tagihan: " , harga4 )
+
+
 
 tanya_mk = input("Mau pesan makan apa bakso atau mie ayam? ")
 tanya_mn = input("Mau pesan minum apa ?")
-total_harga = ("Rp.")
 
-mk_mn = Penjual(tanya_mk, tanya_mn, total_harga)
+mk_mn = Penjual(tanya_mk, tanya_mn)
 mk_mn.fungsi_Makan()
 mk_mn.fungsi_Minum()
 mk_mn.tagihan_harga()

@@ -1,0 +1,1694 @@
+{
+    "resumes": {
+        "person": {
+            "phone": "770-995-1993",
+            "fax": "770-237-5712",
+            "website": "http://www.polyglotinc.com/",
+            "address": {
+                "_state": "GA",
+                "_city": "Lawrenceville",
+                "_zip": "30043",
+                "_street": "331 Ashbourne Trail"
+            },
+            "email": "rbw@polyglotinc.com",
+            "project": [
+                {
+                    "position": {
+                        "_title": "Author",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "OnJava.com",
+                        "_location": "Sebastopol, CA",
+                        "_www": "http://www.onjava.com/"
+                    },
+                    "supervisor": {
+                        "_name": "chromatic",
+                        "_title": "Editor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Wrote article on Explicit Programming appearing in the March 2003 OnJava Magazine",
+                    "description": "Contrasted the concepts of Design Markers and Explicit Programming in an article published in the March 2003 issue of O'Reilly's OnJava.com online magazines  It detailed how Design Markers can be used now to provide many of the benefits of Explicit Programming without relying on experimental tools.",
+                    "keywords": {
+                        "_list": "Java, Design Markers, Explicit Programming, education"
+                    },
+                    "_start": "3/2003",
+                    "_end": "3/2003"
+                },
+                {
+                    "position": {
+                        "_title": "Author",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Gamelan.com",
+                        "_location": "Darien, CT",
+                        "_www": "http://www.gamelan.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Rosemarie Graham",
+                        "_title": "Editor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Wrote article on Design Markers appearing in the March 2003 Gamelan Magazine",
+                    "description": "Conceived the concept of Design Markers and wrote an article presenting the idea. It was published in the March 2003 issue of both the Gamelan.com and Developer.com online magazines.  It detailed how Marker Interfaces and JavaDoc can be combined to document Design Choices in the implementation source code.",
+                    "keywords": {
+                        "_list": "Java, Design Markers, Explicit Programming, education"
+                    },
+                    "_start": "12/2002",
+                    "_end": "3/2003"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "ChoicePoint",
+                        "_location": "Atlanta, GA",
+                        "_www": "http://www.choicepoint.net/"
+                    },
+                    "supervisor": {
+                        "_name": "K. Deshpande",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "2"
+                    },
+                    "short_desc": "Developer of EJB based Business Credit Information Warehouse",
+                    "description": "Worked on multiple projects including developing XSLT transforms of XML bulk data into Oracle load scripts.  Was developer/mentor for a team developing the Business Identity Management middleware of a large Business Credit Information Warehouse that used EJB CMP 2.0 technology with Oracle.  Documented biometric information system using Struts. Integrated LDAP servers with Borland J2EE server developing custom JNDI and JAAS components.",
+                    "keywords": {
+                        "_list": "Java, J2EE, EJB CMP 2.0, XML, XSLT, XSchema, JUnit, JBuilder,  BES, Win2000, Solaris, Oracle, JAAS, Design Patterns, UML, QA/QC, JNDI, LDAP, Struts, education, SQL, RUP, Rose, Unix, BPA"
+                    },
+                    "_start": "8/2002",
+                    "_end": "5/2003"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "PolyGlot, Inc.",
+                        "_location": "Atlanta, GA",
+                        "_www": "http://www.polyglotinc.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Robert Wallace",
+                        "_title": "Owner"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed a set of XML utilities for publishing resumes/job requirements",
+                    "description": "Ported GanntMagic, a set of Java/XML utilities for publishing resumes and job requirements in a number of formats including GANNT chart graphics, from standalone Java application to SVG/XML/XSLT based middleware integrated with an interactive web site using multi-threaded J2EE technologies.  An ontology was created to organize buzzwords enabling better search and summary results.",
+                    "keywords": {
+                        "_list": "SVG, XML, DTD, XSLT, XSchema, XERCES, XALAN, Java, J2EE, JRun, MySQL, JDBC, JSP, JAXP, XHTML, HTML, ontology, Protege-2000, Linux, Win2000, Apache, Batik, SQL, Javascript, UML, architect, Unix"
+                    },
+                    "_start": "4/2002",
+                    "_end": "8/2002"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Grassroots Girls",
+                        "_location": "Atlanta, GA",
+                        "_www": "http://www.grassrootsgirls.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Renee Izadi",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "1"
+                    },
+                    "short_desc": "Automated web site production via custom Java/XML/XSLT utilites",
+                    "description": "Site architect and developer of a set of Java/XML/XSLT utilities for automating the generation of dynamic pages on their web site. Also, taught in-house classes on XML/XSLT. Was main liaison between business partners and web graphics designer.  Also developed server side scripts in PHP to support forms and order processing.",
+                    "keywords": {
+                        "_list": "XML, XSLT, DTD, XSchema, XHTML, HTML, CSS, Java, J2EE, education, workflow, XALAN, XERCES, JAXP, JRun, Apache, ANT, Linux, PHP, Win2000, Internet, e-commerce, UML, architect, Unix, BPA"
+                    },
+                    "_start": "11/2001",
+                    "_end": "6/2002"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "MediaBin",
+                        "_location": "Atlanta, GA",
+                        "_www": "http://www.mediabin.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Bill Coleman",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Lead Java Developer porting client/server API from C++ to Java",
+                    "description": "Ported from C++ to Java the implementation of the client-side API of the MediaBin Image and Asset Mgmnt System.  This multi-threaded Java middleware managed the C++ server via proprietary client/server protocols using BER encoding and ASN style protocol layers on top of TCP/IP.  I also developed an extensive (over 500 tests) unit test suite using the open std JUnit test framework and JBuilder IDE.",
+                    "keywords": {
+                        "_list": "Java, C++, JUnit, JBuilder, GDPro, Win2000, image mgmnt, BER-ASN-TCP/IP protocols, Design Patterns, UML, QA/QC"
+                    },
+                    "_start": "2/2001",
+                    "_end": "10/2001"
+                },
+                {
+                    "position": {
+                        "_title": "Author",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "JavaPro Magazine",
+                        "_location": "Atlanta, GA",
+                        "_www": "http://www.polyglotinc.com/reflection.html"
+                    },
+                    "supervisor": {
+                        "_name": "Kay Keppler",
+                        "_title": "Editor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Wrote article on design patterns appearing in the March 2001 JavaPro Magazine",
+                    "description": "Wrote an article on the Visitor design pattern which was published in the March 2001 issue of JavaPro Magazine.  It detailed how Java's reflection API can be used to greatly simplify the implementation of the GoF Visitor pattern.",
+                    "keywords": {
+                        "_list": "Java, Visitor Pattern, Reflection, education"
+                    },
+                    "_start": "10/2000",
+                    "_end": "2/2001"
+                },
+                {
+                    "position": {
+                        "_title": "Tech Asst to Chairman",
+                        "_type": "Employee"
+                    },
+                    "client": {
+                        "_name": "Matrix.net",
+                        "_location": "Austin, TX",
+                        "_www": "http://www.matrix.net/"
+                    },
+                    "supervisor": {
+                        "_name": "Don Fussell",
+                        "_title": "Chief Science Officer"
+                    },
+                    "staff": {
+                        "_headcount": "2"
+                    },
+                    "short_desc": "Lead Portal and J2EE Developer",
+                    "description": "Managed, from software purchase negotiations thru development and developer training, the Portal portion of a product delivering network monitoring info via a web user interface. The project used the Epicentric portal framework and JRun JSP/servlet engine on top of a JDBC database and Apache web server.  Also, designed,  implemented and built automated testing of a servlet-based Configuration Server middleware for the Java and Perl components of the product.  Performed all development remotely via Internet telecommuting.",
+                    "keywords": {
+                        "_list": "Portals, Java, Servlets, JSP, J2EE, JDBC, HTML, CSS, Perl, Solaris, Linux, TCP/IP, ICMP, XML, Epicentric, JRun, MySQL, Apache, architect, Win95, SQL, UML, Unix, BPA, QA/QC"
+                    },
+                    "_start": "3/2000",
+                    "_end": "1/2001"
+                },
+                {
+                    "position": {
+                        "_title": "Lead Developer",
+                        "_type": "Employee"
+                    },
+                    "client": {
+                        "_name": "Nuforia",
+                        "_location": "Houston, TX",
+                        "_www": "http://www.redsky.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Michael Wollin",
+                        "_title": "Dir., Engineering"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Lead developer for the Atlanta office",
+                    "description": "Hired as lead developer for the Atlanta office of an internet consulting start-up.  Participated in OO Analysis JAD of a CRM system for private credit card client, Enterprise Portal development using Epicentric middleware and custom servlets/JSPs, and taught Java and J2EE technology classes to both in-house and client developers.  Specialized in multi-tier distributed/internet/intranet systems.",
+                    "keywords": {
+                        "_list": "e-commerce, Portals, education. CRM, Java, Servlets, JSP, J2EE, EJB, HTML, CSS, WinNT, Linux, TCP/IP,  network admin, firewalls, XML, Epicentric, WebLogic, Apache, SQL, UML, Unix, BPA"
+                    },
+                    "_start": "6/1999",
+                    "_end": "3/2000"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "QWIZ, Inc.",
+                        "_location": "Atlanta, GA",
+                        "_www": "http://www.qwiztek.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Tina Babb",
+                        "_title": "Project Lead"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Member of expert panels developing online tests for Java 2 and HTML 4.0",
+                    "description": "Was one of 3 experts on two separate panels that researched and produced questions and answers for online testing of Java 2 and HTML 4 skills.",
+                    "keywords": {
+                        "_list": "Java, HTML, CSS, education"
+                    },
+                    "_start": "4/1999",
+                    "_end": "6/1999"
+                },
+                {
+                    "position": {
+                        "_title": "Chief Technical Officer",
+                        "_type": "Employee"
+                    },
+                    "client": {
+                        "_name": "fabric.com",
+                        "_location": "Marietta, GA",
+                        "_www": "http://www.fabric.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Stephen Friedman",
+                        "_title": "President"
+                    },
+                    "staff": {
+                        "_headcount": "22"
+                    },
+                    "short_desc": "CTO for an e-commerce / online-auction / industry-portal startup",
+                    "description": "Took over as a hands-on CTO of a small startup that had lost its entire technical staff midway through its seed funding cycle.  Was in charge of all technical aspects of the company, focused on marrying internet commerce with the textile and apparel industries.  Reporting to the President, I managed all software development, both in-house, outsourced and licensed, as well as technical architecture development and support.  Web sites included retail stores for clients like Hancock Fabrics, Java-based real-time auctions for clients like Walt Disney Company, and the portal sites www.fabric.com and www.apparelex.com.  Developed infrastructure to collect data from online activities and data mine it to support email and fax based promotions. Also developed enterprise data integration and workflow middleware to automate internal operations wherever possible.  Directed 5 staff members and 17 contractors from 7 different vendors.",
+                    "keywords": {
+                        "_list": "management, e-commerce, BPA/BPR, workflow, data modeling, data mining, database admin, Filemaker, Access, Oracle, Java, Javascript, Perl, HTML, Cold Fusion, network admin, WinNT, Win95, Linux, architect, SQL, UML, Unix"
+                    },
+                    "_start": "3/1998",
+                    "_end": "4/1999"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "PolyGrafX",
+                        "_location": "Chattanooga, TN",
+                        "_www": "http://www.polygrafxstudios.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Scott Wallace",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed a set of Java/XML utilities for publishing resumes",
+                    "description": "Developed GanntMagic, a set of Java/XML utilities for publishing resumes and job requirements in a number of formats including graphical GANNT charts. Also, taught in-house classes on XML.",
+                    "keywords": {
+                        "_list": "XML, DTD, Java, education, graphics, Solaris, Win95, Unix"
+                    },
+                    "_start": "11/1997",
+                    "_end": "1/1998"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract-W2"
+                    },
+                    "client": {
+                        "_name": "Javasoft (Sun)",
+                        "_location": "Cupertino, CA",
+                        "_www": "http://www.javasoft.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Frank Dibbell",
+                        "_title": "SQE Manager"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "In charge of developing Java applets for HotJava Browser test suite",
+                    "description": "Was in charge of developing a set of Java applets to test a broad range of Java APIs available in the HotJava Browser environment, especially security limits.  APIs included Java Beans, GUI, networking, communications, system calls, etc. Also developed a multi-threaded HTTP server written in Java with special server side include processing to support browser stress testing.",
+                    "keywords": {
+                        "_list": "Java, HTML, HTTP, Solaris, Win95, QA/QC, JDK, Visual Cafe, JBuilder, JavaStudio, Unix"
+                    },
+                    "_start": "7/1997",
+                    "_end": "2/1998"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "MIDS",
+                        "_location": "Austin, TX",
+                        "_www": "http://www.internetweather.com/"
+                    },
+                    "supervisor": {
+                        "_name": "John Quarterman",
+                        "_title": "President"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "developed Java applets for Internet Weather Map viewing",
+                    "description": "Developed a data visualization applet in Java that enables Web users to see Internet data storms.  Also, wrote Java applications to poll web sites and collect performance statistics. MIDS collects a database of statistics about data flow over the entire Internet. Performed all development remotely via Internet telecommuting.",
+                    "keywords": {
+                        "_list": "Java, HTML, HTTP, JDK, Visual Cafe, Solaris, Win95, Macintosh, Unix"
+                    },
+                    "_start": "9/1996",
+                    "_end": "3/1998"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract-W2"
+                    },
+                    "client": {
+                        "_name": "Coca-Cola",
+                        "_location": "Atlanta, GA",
+                        "_www": "http://www.coke.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Tamara Wright",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Support and extend a MacApp-based client/server data warehouse",
+                    "description": "Helped support & extend Coke's custom Macintosh client software for a client/server data warehouse system. The databases were implemented with Oracle and Teradata servers. The Macintosh software was implemented with MacApp 3.1 using CodeWarrior and C++.  Helped develop proof of concept for porting Mac and PC versions of software to a single 3-tier implementation in Java.",
+                    "keywords": {
+                        "_list": "Java, C++, MacApp, CodeWarrior, SQL, client/server, data warehouse, Booch"
+                    },
+                    "_start": "6/1996",
+                    "_end": "5/1997"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "IRI Logistics",
+                        "_location": "Atlanta, GA",
+                        "_www": "http://www.infores.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Vittal Devarajan",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Helped port MRP/DRP system from PL/SQL to C/Oracle/Informix",
+                    "description": "Helped to port and enhance the Logistics Partner DRP product from Oracle PL/SQL to C, Oracle Pro*C, & Informix ESQL-C on HPUX and AIX platforms. Developed preprocessor language to enable common source files to generate both Pro*C and ESQL-C embedded SQL. Was in charge of integration of all backend server code produced by 6 developers.",
+                    "keywords": {
+                        "_list": "HPUX, AIX, C, Oracle Pro*C, Informix ESQL-C, MRP/DRP, compilers, Unix, SQL"
+                    },
+                    "_start": "3/1996",
+                    "_end": "6/1996"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "BellSouth Wireless",
+                        "_location": "Atlanta, GA",
+                        "_www": "http://www.cellemetry.com/pr1999/Nov_18_1999.html"
+                    },
+                    "supervisor": {
+                        "_name": "Steve Cleary",
+                        "_title": "Senior Manager"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Architect of server software for BellSouth's Cellemetry service",
+                    "description": "Designed software architecture & implemented multi-threaded / multi-process message routing kernal of the Cellemetry system for performing telemetry transparently over existing cellular phone systems. This effort included development of fault-tolerant middleware and inter-system protocols. The system was written in C/C++ using the DGM&S Omni toolkit and IS41/SS7 network interface. Also programmed HP IS41 protocol analyser in HP Pascal.",
+                    "keywords": {
+                        "_list": "C, C++, UnixWare, message oriented middleware, telecom systems, IS41,SS7, PERL, DGM&S, Pascal, Booch, Unix"
+                    },
+                    "_start": "5/1995",
+                    "_end": "2/1996"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract-W2"
+                    },
+                    "client": {
+                        "_name": "BellSouth Cellular",
+                        "_location": "Atlanta, GA",
+                        "_www": "http://www.bellsouth.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Gary Schwaiger",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "2"
+                    },
+                    "short_desc": "Created Middleware for Real-time Cellular Phone Billing System",
+                    "description": "Architect of middleware layer as well as portions of the application layer for a multi-threaded real-time billing network for cellular phone services. The system was written in C++ using Sybase, DCE, & SNMP on AIX and HPUX servers. Developed real-time process control, communications, and monitoring using custom X windows graphics displays and SNMP interface to NetView & SM/6000. Taught in-house classes on Object Oriented development and C++.",
+                    "keywords": {
+                        "_list": "C++, AIX, HPUX, Sybase, DCE, SNMP, NetView, SM/6000, distributed systems, X Windows, SQL, education, Booch, Unix, BPA"
+                    },
+                    "_start": "4/1994",
+                    "_end": "4/1995"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Digital Enterprises",
+                        "_location": "Atlanta, GA",
+                        "_www": ""
+                    },
+                    "supervisor": {
+                        "_name": "Keith Tener",
+                        "_title": "President"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed system to monitor/log RAID disk status notifying alerts via digital pagers",
+                    "description": "",
+                    "keywords": {
+                        "_list": "Win31, MS-DOS, C/C++, telecommunications, protocol design, sole-developer, embedded, Booch"
+                    },
+                    "_start": "4/1994",
+                    "_end": "6/1994"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract-W2"
+                    },
+                    "client": {
+                        "_name": "Georgia Power",
+                        "_location": "Atlanta, GA",
+                        "_www": "http://www.southerncompany.com/gapower/"
+                    },
+                    "supervisor": {
+                        "_name": "The Computer Merchant",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed reporting apps for Board of Directors using ObjectPAL (Paradox for Windows)",
+                    "description": "",
+                    "keywords": {
+                        "_list": "ObjectVision, ObjectPAL, Paradox for Windows, Crystal Reports, Win31, Booch, BPA"
+                    },
+                    "_start": "6/1993",
+                    "_end": "11/1994"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract-W2"
+                    },
+                    "client": {
+                        "_name": "Coca-Cola",
+                        "_location": "Atlanta, GA",
+                        "_www": "http://www.coke.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Karen Gratton",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed Macintosh GUIs for Coke's marketing data warehouse",
+                    "description": "Helped develop two marketing promotions tracking systems for Coke where Macintosh and MS Windows custom applications were written to provide a uniform GUI front end to SQL databases. The databases were implemented with Oracle via central servers. The PC clients used Oracle PRO*C embedded SQL pre-compiler. The Macintosh programs were implemented with MacApp 3.0 using MPW and C++.",
+                    "keywords": {
+                        "_list": "C++, MPW, MacApp, Oracle, Pro*C, SQL, client/server, Win31, Booch"
+                    },
+                    "_start": "2/1993",
+                    "_end": "3/1994"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Raytheon",
+                        "_location": "Marlborough, MA",
+                        "_www": "http://www.raytheon.com/c3i/c3iproducts/c3iatc/atcin.htm"
+                    },
+                    "supervisor": {
+                        "_name": "Martin Greenstein",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Helped develop a rapid-prototype of an air-traffic control system",
+                    "description": "Helped develop a rapid-prototype of an air-traffic control system. The system was used to demonstrate the capability of developing an ATC system built with open systems components (Unix, X). Dataviews middleware was chosen as the rapid prototyping tool. Interfaced with actual ATC radar data from Frankfurt, Germany (DERD) and drove custom Sony 2K by 2K pixel color displays.",
+                    "keywords": {
+                        "_list": "C, DGUX, SunOS, Unix, X, Motif, DataViews, real-time, twm, mwm, graphics, embedded"
+                    },
+                    "_start": "1/1993",
+                    "_end": "2/1993"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "BenefitWare",
+                        "_location": "Stone Mtn, GA",
+                        "_www": ""
+                    },
+                    "supervisor": {
+                        "_name": "",
+                        "_title": ""
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed insurance direct reimbursement program using ObjectVision",
+                    "description": "",
+                    "keywords": {
+                        "_list": "ObjectVision, Win31"
+                    },
+                    "_start": "11/1992",
+                    "_end": "2/1993"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract-W2"
+                    },
+                    "client": {
+                        "_name": "Federal Express",
+                        "_location": "Memphis, TN",
+                        "_www": "http://www.fedex.com/"
+                    },
+                    "supervisor": {
+                        "_name": "GE Consulting",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Wrote a white paper on X GUI interoperability & style guidelines",
+                    "description": "",
+                    "keywords": {
+                        "_list": "X Windows, Motif, XLOOK, GUI, Unix"
+                    },
+                    "_start": "10/1992",
+                    "_end": "12/1993"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "V.I. Corporation",
+                        "_location": "Northampton, MA",
+                        "_www": "http://www.dvcorp.com/AboutUs.Htm"
+                    },
+                    "supervisor": {
+                        "_name": "Earl Billingsley",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Helped develop interactive GUI editors for DataViews customers",
+                    "description": "Helped develop interactive GUI editors for Commonwealth Edison, Hitachi, and Talarian using DataViews middleware, Unix, C, and X windows/Motif. The user could easily produce screens with real-time input & output elements that were linked via shared memory to user application programs. These editors were built with the DataViews GUI development package from V.I. Corporation as well as Xt & Motif.  Also, developed a real-time digital radio GUI for ITT using DataViews rapid-prototyping tools on top of Open Look.",
+                    "keywords": {
+                        "_list": "C, C++, Unix, X, XDesigner, Motif, DataViews, real-time, SunOS, HPUX, DGUX"
+                    },
+                    "_start": "1/1992",
+                    "_end": "10/1992"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Lockheed Missles & Space",
+                        "_location": "Sunnyvale, CA",
+                        "_www": "http://lmms.external.lmco.com/defsys/thaad.html"
+                    },
+                    "supervisor": {
+                        "_name": "VI Corp",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Helped test & debug ERIS launch control console software",
+                    "description": "As a DataViews middleware consultant, I performed an informal software audit of the launch control console software for the ERIS program focusing on a particular set of problems.  I produced a report of the general state of the software as well as recommended changes.",
+                    "keywords": {
+                        "_list": "DataViews, Fortran, Modula, GUI, QA/QC, VAX VMS"
+                    },
+                    "_start": "11/1991",
+                    "_end": "12/1991"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Chevron Oil",
+                        "_location": "Richmond, CA",
+                        "_www": "http://www.chevrontexaco.com/news/archive/chevron%5Fpress/2001/2001%2D09%2D05.asp"
+                    },
+                    "supervisor": {
+                        "_name": "Rick Scheuerman",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "1"
+                    },
+                    "short_desc": "Overhauled oil refinery pilot plant realtime GUI monitoring systems",
+                    "description": "Overhauled an oil refinery pilot plant monitoring system using DataViews middleware, Ingres, Vax VMS, C, and FORTRAN. This real-time system included several processes, distributed over DecNet, which communicated via message and file passing. Object-Oriented techniques were used in the redesign and implementation.  System made extensive use of the DataViews GUI development package from V.I. Corporation.",
+                    "keywords": {
+                        "_list": "VAX, VMS, C, FORTRAN, DecWindows, DataViews, Ingres, DecNet, real-time, graphics, client/server, embedded"
+                    },
+                    "_start": "7/1991",
+                    "_end": "11/1991"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Orbital Engine Co.",
+                        "_location": "Perth, West Australia",
+                        "_www": "http://www.orbeng.com.au/orbital/engineeringServices/testingValidation.htm"
+                    },
+                    "supervisor": {
+                        "_name": "Mark Norman",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "3"
+                    },
+                    "short_desc": "Developed realtime Unix/X GUI for automobile engine testing systems",
+                    "description": "Developed an automobile engine test & measurement system in DGUX, C, Progress 4GL, and X windows based on an existing system in DG/AOS FORTRAN. I developed a multi-threaded real-time middleware system which managed communications and synchronization via System V IPC. Object-Oriented development techniques were used in the design and implementation. System used HP75000 and HP3852 GPIB bus mainframes, IDEC Izumi PLCs, and Ono Sokki flow meters. Taught in house classes on Object Oriented development.",
+                    "keywords": {
+                        "_list": "AOS, DGUX, FORTRAN, C, C++, Progress 4GL, X, Xlib, Motif, graphics, QA/QC, MS-DOS, real-time, relational database, education, architect, embedded, Unix"
+                    },
+                    "_start": "11/1989",
+                    "_end": "5/1991"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Pillar Corporation",
+                        "_location": "Foster City, CA",
+                        "_www": ""
+                    },
+                    "supervisor": {
+                        "_name": "",
+                        "_title": ""
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed MacApp objects to read/write Lotus & DBase files",
+                    "description": "",
+                    "keywords": {
+                        "_list": "MacApp, OOP, DBASE, Object Pascal, Macintosh"
+                    },
+                    "_start": "7/1989",
+                    "_end": "10/1989"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Operations Control Systems",
+                        "_location": "Palo Alto, CA",
+                        "_www": "http://www.tidalsoft.com/news/press_releases/download/TIDAL_PR.pdf"
+                    },
+                    "supervisor": {
+                        "_name": "Derek Evans",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed OCS/Make, a UNIX-like make facility for HP3000 systems",
+                    "description": "Developed an object-oriented UNIX-like make facility for HP3000 systems to be marketed as a stand-alone product OCS/Make as well  as being integrated into the OCS/Librarian product. Also produced maintenance & upgrade changes to OCS/Librarian.",
+                    "keywords": {
+                        "_list": "HP3000, MPE V, Image, View, Pascal/3000, Unix, architect"
+                    },
+                    "_start": "4/1989",
+                    "_end": "9/1989"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Stanley-Vidmar",
+                        "_location": "Cincinnati, OH",
+                        "_www": "http://www.stanleyvidmar.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Kit Fitzpatric",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Helped develop Apple's Flexible Manufacturing System (FMS)",
+                    "description": "Helped port and extend a real-time manufacturing controls system from an MS-DOS environment to the Macintosh. This version of the system was specifically for use in Apple Computer's Flexible Manufacturing System (FMS) in Fremont, California. The system controlled 1500 rotary storage locations along with assorted robot extractor/inserters and conveyors. It also updated part inventory and daily production schedule databases. The control system communicated with controllers from other vendors over AppleTalk network links.",
+                    "keywords": {
+                        "_list": "Macintosh, MPW, C, DB-Vista databases, MS-DOS,  IBM PC/AT, real-time, manufacturing, protocol design, communications, AppleTalk, embedded"
+                    },
+                    "_start": "1/1989",
+                    "_end": "3/1989"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "MasterPlan, Inc.",
+                        "_location": "Foster City, CA",
+                        "_www": ""
+                    },
+                    "supervisor": {
+                        "_name": "",
+                        "_title": ""
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Taught in-house classes on MacApp and OO development",
+                    "description": "",
+                    "keywords": {
+                        "_list": "MacApp, OOP, Object Pascal, Macintosh, education"
+                    },
+                    "_start": "11/1988",
+                    "_end": "1/1989"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Ruocco & Saucedo",
+                        "_location": "San Jose, CA",
+                        "_www": "http://www.justadvocates.com/firms/firm.cfm?ID=206"
+                    },
+                    "supervisor": {
+                        "_name": "",
+                        "_title": ""
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Wrote plan to implement new office LAN in a small law firm",
+                    "description": "",
+                    "keywords": {
+                        "_list": "Macintosh, LAN, network design, BPA"
+                    },
+                    "_start": "4/1988",
+                    "_end": "6/1988"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Cameo Systems",
+                        "_location": "Santa Clara, CA",
+                        "_www": "http://search.chemweek.com/%7Ecearchive/start_search/095/08/0193.html"
+                    },
+                    "supervisor": {
+                        "_name": "Fred Hyden",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "2"
+                    },
+                    "short_desc": "Macintosh team leader for CIM system for Genentech",
+                    "description": "Macintosh team leader on project to develop computer-integrated-manufacturing (CIM) system for Genentech. Designed and implemented workstation prototypes.  Macintoshes were connected to Tandem mainframe which handled central SQL database.",
+                    "keywords": {
+                        "_list": "Macintosh, MPW, MacApp, Object Pascal, CIM, SQL, object oriented, 4th Dimension 4GL, protocol design, client/server"
+                    },
+                    "_start": "3/1988",
+                    "_end": "12/1988"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Schlage Electronics",
+                        "_location": "Palo Alto, CA",
+                        "_www": "http://www.schlagelock.com/brands/ebolt/"
+                    },
+                    "supervisor": {
+                        "_name": "",
+                        "_title": ""
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed electronic lock controller firmware",
+                    "description": "",
+                    "keywords": {
+                        "_list": "6800, device drivers, embedded, assembler"
+                    },
+                    "_start": "1/1988",
+                    "_end": "3/1988"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Verilink",
+                        "_location": "San Jose, CA",
+                        "_www": "http://www.verilink.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Starry Chan",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "3"
+                    },
+                    "short_desc": "Developed network management system for Verilink's T1 CSU/DSUs",
+                    "description": "Developed the multi-threaded software for a network management system for interfacing to Verilink's several types of T1 span monitoring equipment using D4/ESF protocols. The system allowed interactive access to individual nodes in the network as well as out-of-service testing (e.g. loopbacks). Background processing included alarm logging and performance data gathering. Wrote a complete OSI based transport system to implement secure communications between nodes over open phone lines with modems.",
+                    "keywords": {
+                        "_list": "communications, OSI, T1 (D4/ESF), protocol design, real-time, IBM PC/AT, C, DB-Vista databases, MS-DOS, QA/QC, architect, embedded, 8052"
+                    },
+                    "_start": "7/1987",
+                    "_end": "2/1988"
+                },
+                {
+                    "position": {
+                        "_title": "Product Manager",
+                        "_type": "Employee"
+                    },
+                    "client": {
+                        "_name": "BAM",
+                        "_location": "Sydney, Australia",
+                        "_www": ""
+                    },
+                    "supervisor": {
+                        "_name": "Mike Bolan",
+                        "_title": "President"
+                    },
+                    "staff": {
+                        "_headcount": "4"
+                    },
+                    "short_desc": "Product Manager for Enigma time management software for Macintosh",
+                    "description": "As product manager for this Macintosh time management program, I organized the development team consisting of people in Silicon Valley and Sydney, Australia.  The main competition for this product was Apple MacProject.",
+                    "keywords": {
+                        "_list": "Macintosh, marketing, management, BPA"
+                    },
+                    "_start": "3/1987",
+                    "_end": "6/1987"
+                },
+                {
+                    "position": {
+                        "_title": "Network Transport System Manager",
+                        "_type": "Employee"
+                    },
+                    "client": {
+                        "_name": "Australian Associated Press",
+                        "_location": "Sydney, Australia",
+                        "_www": "http://aap.com.au/"
+                    },
+                    "supervisor": {
+                        "_name": "",
+                        "_title": ""
+                    },
+                    "staff": {
+                        "_headcount": "2"
+                    },
+                    "short_desc": "NTS Manager for national satellite communications network",
+                    "description": "Performed a system design review of AAP's national satellite communications network.  This involved analysis of the protocols of the various communication layers as well as software design.  The system is VAX based written in C involving satellite, microwave, and phone line segments for interactive distribution of financial and wire-service data.",
+                    "keywords": {
+                        "_list": "communications, VAX, VMS, C, Ethernet, Decnet, protocols, design, management, embedded"
+                    },
+                    "_start": "11/1986",
+                    "_end": "4/1987"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Hoge, Fenton, Jones, & Appel",
+                        "_location": "San Jose, CA",
+                        "_www": "http://www.hogefenton.com/"
+                    },
+                    "supervisor": {
+                        "_name": "",
+                        "_title": ""
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Helped develop client database system for law firm",
+                    "description": "",
+                    "keywords": {
+                        "_list": "DBASE, MS-DOS"
+                    },
+                    "_start": "10/1986",
+                    "_end": "10/1986"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "FMC",
+                        "_location": "San Jose, CA",
+                        "_www": "http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=105&STORY=/www/story/12-16-1998/0000826084"
+                    },
+                    "supervisor": {
+                        "_name": "John Tope",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed military vehicle simulations for prototype hardened-LAN",
+                    "description": "Developed military vehicle simulations to demonstrate a distributed electronic control system implemented on a custom hardened local area network.  Ten IBM AT computers where used to simulate various subsystems of trucks, tanks, APC, etc. and communicated over fiber-optic based network using distributed database techniques. Integrated modules produced by 2 other subcontractors.",
+                    "keywords": {
+                        "_list": "IBM PC/AT,  Pascal,  LANs,  simulation,  military systems, distributed database"
+                    },
+                    "_start": "3/1986",
+                    "_end": "9/1986"
+                },
+                {
+                    "position": {
+                        "_title": "Lecturer",
+                        "_type": "Employee"
+                    },
+                    "client": {
+                        "_name": "Northeastern University",
+                        "_location": "Sunnyvale, CA",
+                        "_www": "http://www.northeastern.edu/"
+                    },
+                    "supervisor": {
+                        "_name": "",
+                        "_title": ""
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Faculty member, Pascal & Prolog Instructor, Bay Area Regional Technology Center",
+                    "description": "",
+                    "keywords": {
+                        "_list": "Pascal, Prolog, education"
+                    },
+                    "_start": "7/1985",
+                    "_end": "9/1986"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Hewlett Packard",
+                        "_location": "Cupertino, CA",
+                        "_www": "http://www.hp.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Jean Danver",
+                        "_title": "Manager"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed QA test suites for HP Pascal & Modcal compilers",
+                    "description": "Developed test suite of spec compliance and regression tests for Pascal and Modcal compilers for HP3000,  HP9920, and HP Spectrum computers on MPE, HPUX, and HPE operating systems. Developed tools to automate QA/QC process. Also performed some compiler maintenance.",
+                    "keywords": {
+                        "_list": "QA/QC, HP-3000, HP-9920, HP-Spectrum, Pascal, Modcal, C, HPE, MPE, HPUX,  Unix, HP Image database, compilers"
+                    },
+                    "_start": "3/1985",
+                    "_end": "2/1986"
+                },
+                {
+                    "position": {
+                        "_title": "Entrant/Developer",
+                        "_type": "Volunteer"
+                    },
+                    "client": {
+                        "_name": "Othello Championship",
+                        "_location": "Northridge, CA",
+                        "_www": "http://perso.wanadoo.fr/brunodlb/ot_story.htm"
+                    },
+                    "supervisor": {
+                        "_name": "Marc Furon",
+                        "_title": "Tournament Director"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed entry in North Amer. Computer Othello Championship Tournament",
+                    "description": "Wrote POP, two programs to play the Othello game, one for the IBM PC, and the other for the Macintosh. The IBM PC version was entered into the North American Computer Othello Championship Tournament (Feb 15-16, 1986). I personally had won tournaments where I played against computer programs and human opponents. POP successfully implemented my playing strategy.",
+                    "keywords": {
+                        "_list": "Macintosh, IBM PC/AT, simulation, real-time, graphics, Pascal, sole-developer"
+                    },
+                    "_start": "1/1985",
+                    "_end": "2/1986"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Formaster",
+                        "_location": "Santa Clara, CA",
+                        "_www": "http://www.thebrennergroup.com/press4.shtml"
+                    },
+                    "supervisor": {
+                        "_name": "",
+                        "_title": ""
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed disk copy protection software for Macintosh",
+                    "description": "",
+                    "keywords": {
+                        "_list": "Macintosh, device drivers, Pascal, embedded, assembler, 68000"
+                    },
+                    "_start": "5/1984",
+                    "_end": "9/1984"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Applicon, Inc",
+                        "_location": "Santa Clara, CA",
+                        "_www": "http://www.deskeng.com/articles/99/Aug/bravo/index.htm"
+                    },
+                    "supervisor": {
+                        "_name": "David Ross",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Upgraded Applicon's VLSI CAD/CAM system software",
+                    "description": "Prototyped, in VAX C, a system to extract electrical circuit schematics from raw VLSI fabrication data. Also performed maintenance and upgrade programming for a multi-threaded VLSI CAD/CAM system based on PDP-11 & custom hardware. Development was on VAX VMS.  Produced a new release in 8 weeks (no releases having been made in 2-l/2 years).",
+                    "keywords": {
+                        "_list": "VLSI CAD/CAM,  PDP-11,  VAX,  RSX-llM, VMS, C, computational geometry, design maintenance, FORTRAN, Macro-11, FLECS, Pascal, compilers, device drivers, embedded, assembler"
+                    },
+                    "_start": "3/1984",
+                    "_end": "2/1985"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Bullwinkles Pizza",
+                        "_location": "Cupertino, CA",
+                        "_www": "http://www.worldfranchising.com/profiles/BullWink.htm"
+                    },
+                    "supervisor": {
+                        "_name": "",
+                        "_title": ""
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed graphical customer pickup reminder system",
+                    "description": "",
+                    "keywords": {
+                        "_list": "Apple II, Forth, graphics, device drivers, embedded"
+                    },
+                    "_start": "2/1983",
+                    "_end": "4/1983"
+                },
+                {
+                    "position": {
+                        "_title": "Chief Scientist/Product Manager",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Management Blueprint Software",
+                        "_location": "Los Gatos, CA",
+                        "_www": ""
+                    },
+                    "supervisor": {
+                        "_name": "Mike Lodge",
+                        "_title": "Vice President"
+                    },
+                    "staff": {
+                        "_headcount": "4"
+                    },
+                    "short_desc": "Developed a general purpose symantic-network database system",
+                    "description": "Developed a general purpose symantic-network database system based on AI general knowledge database techniques to facilitate implementation of MBS's application packages for various professions. Integrated the system with subcontracted software modules and user applications. Managed 4 other developers.",
+                    "keywords": {
+                        "_list": "IBM PC/XT, UCSD Pascal, artificial intelligence, management, database kernal, architect, BPA"
+                    },
+                    "_start": "1/1983",
+                    "_end": "2/1984"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Pizza Time Theatre",
+                        "_location": "Sunnyvale, CA",
+                        "_www": "http://www.showbizpizzapage.com/history.htm"
+                    },
+                    "supervisor": {
+                        "_name": "",
+                        "_title": ""
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Taught in-house classes on Apple Pascal",
+                    "description": "",
+                    "keywords": {
+                        "_list": "Apple II, Apple Pascal, education"
+                    },
+                    "_start": "9/1982",
+                    "_end": "11/1982"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "CGW & Associates",
+                        "_location": "Mtn View, CA",
+                        "_www": ""
+                    },
+                    "supervisor": {
+                        "_name": "Carl White",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Taught Introduction to Ada seminars at LeBaron Hotel",
+                    "description": "",
+                    "keywords": {
+                        "_list": "ADA, education, marketing"
+                    },
+                    "_start": "8/1982",
+                    "_end": "11/1982"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "National Info Systems",
+                        "_location": "Cupertino, CA",
+                        "_www": "http://www.nis.com/aboutus.html"
+                    },
+                    "supervisor": {
+                        "_name": "Richard Carlson",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Wrote market evaluation of Pascal-Plus compiler",
+                    "description": "",
+                    "keywords": {
+                        "_list": "Pascal, marketing"
+                    },
+                    "_start": "4/1982",
+                    "_end": "6/1982"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Management Blueprint Software",
+                        "_location": "Los Gatos, CA",
+                        "_www": ""
+                    },
+                    "supervisor": {
+                        "_name": "Mike Lodge",
+                        "_title": "Vice President"
+                    },
+                    "staff": {
+                        "_headcount": "2"
+                    },
+                    "short_desc": "Developed PolyForm, a general purpose forms processing system",
+                    "description": "Developed PolyForm, a general purpose forms processing system with a form definition language interpreter, to facilitate implementation of the MBS customizable application package Presidents War Plan. Managed 2 other developers.",
+                    "keywords": {
+                        "_list": "Apple II, Apple III, IBM PC, TRS-80 II, Pascal, management, compilers, CAI, architect"
+                    },
+                    "_start": "3/1982",
+                    "_end": "1/1983"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "LeCroy, Inc.",
+                        "_location": "Palo Alto, CA",
+                        "_www": "http://www.lecroy.com/"
+                    },
+                    "supervisor": {
+                        "_name": "",
+                        "_title": ""
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed laboratory equipment device drivers",
+                    "description": "",
+                    "keywords": {
+                        "_list": "8085, device drivers, embedded, assembler"
+                    },
+                    "_start": "1/1982",
+                    "_end": "3/1982"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Strobe, Inc.",
+                        "_location": "Mtn View, CA",
+                        "_www": ""
+                    },
+                    "supervisor": {
+                        "_name": "Bob Sherwood",
+                        "_title": "VP, Marketing"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed Pen Plotter device drivers for Apple II and CP/M",
+                    "description": "",
+                    "keywords": {
+                        "_list": "Basic, Z80, device drivers, Apple II, CP/M, embedded, assembler"
+                    },
+                    "_start": "11/1981",
+                    "_end": "1/1982"
+                },
+                {
+                    "position": {
+                        "_title": "Author",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "ADC Associates",
+                        "_location": "Palo Alto, CA",
+                        "_www": ""
+                    },
+                    "supervisor": {
+                        "_name": "Arnie Roberts",
+                        "_title": "Publisher"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed/Published VisiTran data translator for the Apple II",
+                    "description": "",
+                    "keywords": {
+                        "_list": "Apple II, Basic, VisiCalc, marketing, sole-developer"
+                    },
+                    "_start": "10/1981",
+                    "_end": "9/1982"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "OMEX",
+                        "_location": "Santa Clara, CA",
+                        "_www": ""
+                    },
+                    "supervisor": {
+                        "_name": "Rob Spade",
+                        "_title": "Project Leader"
+                    },
+                    "staff": {
+                        "_headcount": "3"
+                    },
+                    "short_desc": "Team Leader for Posting on USA's largest title insurance system",
+                    "description": "Team Leader in charge of design and implementation of the Batch Posting portion of the nations's largest automated title insurance system. Taught in-house Pascal seminars for other project teams.  Designed high and low level database transaction languages and wrote a compiler for the HOL and an interpreter for the LOL which drove the ADABASE-M system.",
+                    "keywords": {
+                        "_list": "Omsi Pascal, PDP-11/70, RSX-llM, management, design, ADABAS-M database, BPA"
+                    },
+                    "_start": "6/1981",
+                    "_end": "5/1982"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "DCM, Inc.",
+                        "_location": "San Leandro, CA",
+                        "_www": "http://www.dcmindustries.com/history.htm"
+                    },
+                    "supervisor": {
+                        "_name": "",
+                        "_title": ""
+                    },
+                    "staff": {
+                        "_headcount": "1"
+                    },
+                    "short_desc": "Developed multi-threaded controller for telephone cable test equipment",
+                    "description": "",
+                    "keywords": {
+                        "_list": "Z80, Pascal, CP/M, O/S kernals, real-time,  device drivers, embedded, assembler"
+                    },
+                    "_start": "4/1981",
+                    "_end": "6/1981"
+                },
+                {
+                    "position": {
+                        "_title": "Author",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Quality Software",
+                        "_location": "Reseda, CA",
+                        "_www": "http://www.cyberroach.com/analog/an01/an1-038.htm"
+                    },
+                    "supervisor": {
+                        "_name": "Quality Software",
+                        "_title": "Publisher"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed/Published \"Meteoroids in Space\" (sequel to Asteroids)",
+                    "description": "Wrote Meteoroids in Space, an upgrade/sequel to Asteroids in Space, an arcade game for the APPLE II. Was voted No. 5 in the All Time Favorite list of APPLE II programs in poll released by SOFTALK magazine.",
+                    "keywords": {
+                        "_list": "APPLE II, 6502, simulation, real-time graphics, Pascal, software protection, marketing, sole-developer, device drivers, embedded, assembler, multi-threaded"
+                    },
+                    "_start": "4/1981",
+                    "_end": "9/1981"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "GenRad S.T.I.",
+                        "_location": "Milpitas, CA",
+                        "_www": "http://www.genrad.com/products/default_products.htm"
+                    },
+                    "supervisor": {
+                        "_name": "Tony Taylor",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Ported FutureData systems from C to Z80 assembly language",
+                    "description": "Provided recommendations for choosing Z80 development system. Wrote a system for translating from any assembler mnemonics to another based on user specifications. Assisted engineers in checkout of target hardware. In charge of converting C programs running on PDP-11 to run on Z80 based machines.",
+                    "keywords": {
+                        "_list": "Z80, Pascal, C, PDP-11, RSX-llM, embedded, assembler"
+                    },
+                    "_start": "2/1981",
+                    "_end": "4/1981"
+                },
+                {
+                    "position": {
+                        "_title": "Author",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Byte Magazine",
+                        "_location": "SF, CA",
+                        "_www": "http://www.byte.com/"
+                    },
+                    "supervisor": {
+                        "_name": "Byte Magazine",
+                        "_title": "Publisher"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Wrote article on computer animation appearing in the May 1981 Byte Magazine",
+                    "description": "",
+                    "keywords": {
+                        "_list": "Apple Pascal, UCSD Pascal, Apple II, education"
+                    },
+                    "_start": "5/1980",
+                    "_end": "5/1981"
+                },
+                {
+                    "position": {
+                        "_title": "Consultant",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Aydin Energy Division",
+                        "_location": "Palo Alto, CA",
+                        "_www": "http://www.epa.gov/oerrpage/superfund/sites/arcsites/c3ca/a0901399.htm"
+                    },
+                    "supervisor": {
+                        "_name": "Art Laursen",
+                        "_title": "Supervisor"
+                    },
+                    "staff": {
+                        "_headcount": "10"
+                    },
+                    "short_desc": "Architect of realtime control systems for Lawrence Livermore Labs",
+                    "description": "In charge of software design and implementation for a $25 million subcontract to a Lawrence Livermore Labs fusion reactor experiment. The contract called for 24 10-megawatt power supply control systems and 4 maintenance consoles interfaced to the power supplies. Wrote an entire multi-threaded multi-tasking system in Z80 used as the kernel and interfaced an off-the-shelf Pascal compiler to the custom operating system. Managed l0 other programmers on the project.",
+                    "keywords": {
+                        "_list": "Z80, Pascal, CP/M, O/S kernals, real-time, management, device drivers, architect, embedded, assembler"
+                    },
+                    "_start": "4/1980",
+                    "_end": "2/1981"
+                },
+                {
+                    "position": {
+                        "_title": "Author",
+                        "_type": "Contract"
+                    },
+                    "client": {
+                        "_name": "Quality Software",
+                        "_location": "Reseda, CA",
+                        "_www": "http://apple2history.org/history/appy/aha78.html"
+                    },
+                    "supervisor": {
+                        "_name": "Quality Software",
+                        "_title": "Publisher"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Developed/Published \"Asteroids in Space\". Considered a classic by Softalk Magazine",
+                    "description": "Wrote Asteroids in Space, an arcade game for the APPLE II. Was voted No. 5 in the All Time Favorite list of APPLE II programs in poll released by SOFTALK magazine. Also added upgrades to version released as Meteoroids in Space.",
+                    "keywords": {
+                        "_list": "APPLE II, 6502, simulation, real-time graphics, Pascal, software protection, marketing, sole-developer, embedded, device drivers, assembler, multi-threaded"
+                    },
+                    "_start": "1/1980",
+                    "_end": "4/1980"
+                },
+                {
+                    "position": {
+                        "_title": "Software Development Manager",
+                        "_type": "Employee"
+                    },
+                    "client": {
+                        "_name": "Personal Software (Visicorp)",
+                        "_location": "Sunnyvale, CA",
+                        "_www": "http://www.businessheroes.com/Pages/history/history2.htm"
+                    },
+                    "supervisor": {
+                        "_name": "Peter Jennings",
+                        "_title": "Chairman"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Software Development Manager for publisher of VisiCalc",
+                    "description": "Managed several independent authors of microcomputer software.  Performed QA/QC and porting activities for entire product line. This was during the time that VisiCalc was introduced. Mitch Capor took this position when I left. He left 6 months later to start Lotus.",
+                    "keywords": {
+                        "_list": "APPLE II, TRS-80, PET, management, QA/QC"
+                    },
+                    "_start": "10/1979",
+                    "_end": "3/1980"
+                },
+                {
+                    "position": {
+                        "_title": "MAXBASIC Project Manager",
+                        "_type": "Employee"
+                    },
+                    "client": {
+                        "_name": "National Info Systems",
+                        "_location": "Cupertino, CA",
+                        "_www": "http://www.nis.com/aboutus.html"
+                    },
+                    "supervisor": {
+                        "_name": "Arden Scott",
+                        "_title": "President"
+                    },
+                    "staff": {
+                        "_headcount": "1"
+                    },
+                    "short_desc": "Project manager for MAXBASIC compiler product",
+                    "description": "Took over managing the MAXBASIC compiler project for DEC-10 and DEC-20 computers when it was two thirds complete with over 200 extant bug reports. Instituted a bug report/enhancement request system used by entire product line of company.",
+                    "keywords": {
+                        "_list": "DEC-10/20, TOPS-l0/20, BASIC, Macro-l0/20, compilers, management, QA/QC, assembler"
+                    },
+                    "_start": "9/1978",
+                    "_end": "9/1979"
+                },
+                {
+                    "position": {
+                        "_title": "President",
+                        "_type": "Volunteer"
+                    },
+                    "client": {
+                        "_name": "Apple P.I.E.",
+                        "_location": "Sunnyvale, CA",
+                        "_www": "http://www.pieinc.org/"
+                    },
+                    "supervisor": {
+                        "_name": "Mark Wozniak",
+                        "_title": "Sponsor"
+                    },
+                    "staff": {
+                        "_headcount": "4"
+                    },
+                    "short_desc": "President of Apple II enthusiasts club (also taught formal classes)",
+                    "description": "Held various offices in Apple P.I.E. (Programming and Interfacing Enthusiasts) club including President, Vice President, and Secretary where I variously organized featured speakers, presided over meetings, and organized club software library.  Also, taught formal 10 week class on Apple Pascal. Meetings were held at the computer store owned by Steve Wozniak's brother Mark.",
+                    "keywords": {
+                        "_list": "Apple II, education, management, Pascal, 6502, assembler"
+                    },
+                    "_start": "9/1978",
+                    "_end": "5/1984"
+                },
+                {
+                    "position": {
+                        "_title": "Programmer/Analyst",
+                        "_type": "Employee"
+                    },
+                    "client": {
+                        "_name": "Control Data Corp",
+                        "_location": "Sunnyvale, CA",
+                        "_www": "http://www.digitalcentury.com/encyclo/update/cdc.html"
+                    },
+                    "supervisor": {
+                        "_name": "Jen Bryant",
+                        "_title": "Group Manager"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Member of Operating System Group for CDC Star supercomputer",
+                    "description": "Member of Operating System Group for CDC Star supercomputer.  Developed tools in FORTRAN-like language in which O/S was written. Learned structured development methodology and source code control systems.",
+                    "keywords": {
+                        "_list": "FORTRAN, CDC NOS, CDC Star, supercomputers, operating systems, mainframe"
+                    },
+                    "_start": "3/1978",
+                    "_end": "9/1978"
+                },
+                {
+                    "position": {
+                        "_title": "Programmer/Analyst",
+                        "_type": "Contract-W2"
+                    },
+                    "client": {
+                        "_name": "Applications Group, FSU",
+                        "_location": "Tallahassee, FL",
+                        "_www": "http://gtcr.fsu.edu/"
+                    },
+                    "supervisor": {
+                        "_name": "Don McEwen",
+                        "_title": "Manager"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Wrote applications for various Depts of the State of Florida",
+                    "description": "Designed/implemented applications for clients contracting with the Florida State University computing center in the following areas: Industrial Regression Model, Census Data Processing, Resource Use Projection, Pollution Monitoring Data Processing, Felony Caseload Data Processing, Student Evaluation Data Processing. Taught graphics seminars for FSU computing center.",
+                    "keywords": {
+                        "_list": "CDC 6000, KRONOS, COMPASS, FORTRAN, COBOL, graphics, data processing, education, mainframe, assembler"
+                    },
+                    "_start": "9/1974",
+                    "_end": "1/1977"
+                },
+                {
+                    "position": {
+                        "_title": "Student",
+                        "_type": "Student"
+                    },
+                    "client": {
+                        "_name": "Florida State University",
+                        "_location": "Tallahassee, FL",
+                        "_www": "http://www.fsu.edu/"
+                    },
+                    "supervisor": {
+                        "_name": "Math/Computer Science",
+                        "_title": "Major"
+                    },
+                    "staff": {
+                        "_headcount": "0"
+                    },
+                    "short_desc": "Math/Computer Science graduate of Florida State University",
+                    "description": "Design and implementation of the EXLAX language/compiler used in a numerical analysis class. Implementation of discrete event simulation of queue network.  Design/implementation of graphic 3-D maze game on PLATO system.  Completed every course offered in the computer science curriculum with a 3.6 GPA. Tutored computer science students for extra money.",
+                    "keywords": {
+                        "_list": "APL, Basic, CDC 6000, KRONOS, COMPASS, Pascal, FORTRAN, TUTOR, PLATO, compilers, language design, simulation, LISP, SNOBOL, COBOL, education, graphics, mainframe, assembler"
+                    },
+                    "_start": "1/1974",
+                    "_end": "12/1977"
+                }
+            ],
+            "_name": "Robert Bruce Wallace, Jr."
+        }
+    }
+}

@@ -1,1 +1,1 @@
-"# praxis-academy" 
+"#praxis-academy" 
